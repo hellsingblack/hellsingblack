@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**hellsingblack/hellsingblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabyhourlier/">Linkedin</a>
+</p>
 
-Here are some ideas to get you started:
+I'm a __full-stack developer__ based in __France__. I touch everything that is web, back and front, with a specialization on the JavaScript world (JS, Node…).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 Currently Freelance Developer
+* 📫 Contact me [Gaby Hourlier](mailto:gaby.hourlier@gmail.com)
+
+## My skills
+
+<p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
+
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=hellsingblack.visitor-badge)
