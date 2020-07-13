@@ -12,7 +12,7 @@ I'm a __full-stack developer__ based in __France__. I touch everything that is w
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+  <img align="center" alt="Meme Studio" src="https://github.com/hellsingblack/hellsingblack/blob/master/pack.png" />
 </p>
 
 
